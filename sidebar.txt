@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rgn:home|Door43 (rgn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rgn|d43-rgn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rgn/archive/master.zip|d43-rgn.zip]]
+
+**Recent Changes**
+{{changes>ns = rgn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rgn|Ethnologue data]]
+
